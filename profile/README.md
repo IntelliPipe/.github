@@ -6,7 +6,7 @@
 
 ## 🚀 Vision
 
-IntelliPipe is an open source alternative to commercial data pipeline solutions like Cribl and Onum, purpose-built for observability, SIEM, and XDR use cases. We're creating a platform that empowers security and operations teams to build flexible, transparent, and cost-effective data processing pipelines without vendor lock-in.
+IntelliPipe is an open source alternative to commercial data pipeline solutions, purpose-built for observability, SIEM, and XDR use cases. We're creating a platform that empowers security and operations teams to build flexible, transparent, and cost-effective data processing pipelines without vendor lock-in.
 
 ## 🎯 Mission
 
